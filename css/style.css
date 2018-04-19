@@ -1,0 +1,21 @@
+h1{
+	background-color: skyblue;
+	animation: mymove 5s infinite;
+	display: block;
+	padding : 15px;
+	text-align: center;
+	
+}
+
+div.main{
+	background-color: 	#F0F8FF;
+}
+
+body{
+	padding: 20px;
+
+}
+
+a{
+	padding-left: 50px;
+}
