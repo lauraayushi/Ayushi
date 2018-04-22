@@ -4,10 +4,9 @@ h1 {
 	border-radius:2px;
 	background-color: grey;
     padding: 10px;
-    display: rounded;
-    
-
-
+}
+h2 {
+	text-align: center;
 }
 
 
