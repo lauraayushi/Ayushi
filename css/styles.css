@@ -29,7 +29,15 @@ body {
 	  background-image: url("../image/flower.jpg");
       background-size: cover;
       background-repeat:no-repeat;
-} 
+}
+
+span {
+	  font-family:monospace;
+}
+
+.My p {
+       font-color:red;
+}
 
 a { 
    padding: 100px;
@@ -48,8 +56,6 @@ ul{
 	font-style: arial;
 }
 
-.My p {
-	   background-color: coral;
-}
+
 
 
