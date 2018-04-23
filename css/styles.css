@@ -38,10 +38,7 @@ body {
 
 span {
 	  font-family:monospace;
-}
-
-.My p {
-       font-color:red;
+	  flex-direction: 30;
 }
 
 a { 
