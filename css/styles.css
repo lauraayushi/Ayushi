@@ -11,7 +11,7 @@ h2 {
 }
 
 img {
-	width: 
+	 width: 
 }
 
 h3 {
@@ -30,6 +30,10 @@ body {
 
 a { 
    padding: 100px;
+}
+
+p {
+	font-family: arial;
 }
 
 
