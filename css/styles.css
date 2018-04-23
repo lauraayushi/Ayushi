@@ -11,7 +11,6 @@ h2 {
 }
 
 img {
-	
 	width: 
 }
 
@@ -25,8 +24,12 @@ h4 {
 	font-family: arial;
 }
 
-body{
-	padding: 80px;
+body {
+	  padding: 80px;
+}
+
+a { 
+   padding: 100px;
 }
 
 
