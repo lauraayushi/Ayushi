@@ -10,14 +10,6 @@ h1 {
     border:2px solid black;
 }
 
-test-box {
-	     border:2px solid black;
-	     border-left:4px solid purple;
-	     border-right: 6px solid blue;
-	     border-top: 8px solid blue;
-	     border-bottom:8px solid purple;
-}
-
 h2 {
 	text-align: right;
 }
@@ -41,6 +33,10 @@ body {
 	  background-image: url("../image/flower.jpg");
       background-size: cover;
       background-repeat:no-repeat;
+}
+
+.My p {
+	   font-weight: bold;
 }
 
 span {
