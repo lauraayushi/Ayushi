@@ -12,6 +12,7 @@ h1 {
 
 h2 {
 	text-align: right;
+	font-style: arial;
 }
 
 img {
@@ -33,10 +34,6 @@ body {
 	  background-image: url("../image/flower.jpg");
       background-size: cover;
       background-repeat:no-repeat;
-}
-
-.My p {
-	   font-weight: bold;
 }
 
 span {
