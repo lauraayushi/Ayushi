@@ -1,25 +1,16 @@
-# Portfolio Landing
- 
- Laura Ayushi
- ---
-
- Portfolio Landing Page basically talks about myself in general.It potrays the flower as my self-image.
- The project outlines the main reason why Iam taking programming classes as well as it shows my skills and hobbies.
- ---
- 
- ### Set up instructions
- To set up the project.One will go to Files.
- Then they will go to the Friday-Project directory.
- Whereby they will access the index.html file which contains the project.
- so far the project has no bug which Iam aware of.
- ---
-
- ### Link to Site (file:///home/laura/Friday-Project/index.html)
-
- ###LICENSE
- MIT License
-
-Copyright (c) [2018] [LAURA AYUSHI]
+#PORTFOLIO LANDING PAGE
+#### By **Laura Ayushi**
+## Description
+The project is about myself and the things that I like doing which make me the way that Iam.
+## Setup/Installation Requirements
+* git clone
+* cd Friday-Project
+* cd index.html
+## Link to live site 
+https://lauraayushi.github.io/Ayushi/
+## Technologies Used
+I used HTML and CSS.
+### MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -39,6 +30,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+Copyright (c) {2018} **{Laura Ayushi}**
+  
 
 
 
