@@ -1,4 +1,4 @@
-##PORTFOLIO LANDING PAGE
+## PORTFOLIO LANDING PAGE
 #### By **Laura Ayushi**
 ## Description
 The project is about myself and the things that I like doing which make me the way that Iam.
@@ -10,7 +10,7 @@ The project is about myself and the things that I like doing which make me the w
 https://lauraayushi.github.io/Ayushi/
 ## Technologies Used
 I used HTML and CSS.
-### MIT License
+## MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
